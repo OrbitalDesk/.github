@@ -1,6 +1,6 @@
-# Freelancing Company Management Panel
+# OrbitalDesk
 
-The **Freelancing Company Management Panel** is a powerful platform for managing freelancers, clients, and projects. It offers an intuitive user interface, a flexible role and permission system, and comprehensive financial and project management features.
+**OrbitalDesk** is a powerful platform for managing freelancers, clients, and projects. It offers an intuitive user interface, a flexible role and permission system, and comprehensive financial and project management features.
 
 ## ✨ Key Features
 
